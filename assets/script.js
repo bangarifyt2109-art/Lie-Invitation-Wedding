@@ -65,7 +65,7 @@ fetch("data/katalog.json")
   });
 function tampilkan(){
   const katalog = document.getElementById("katalog");
-  const nomorWA = "6283894605700";
+  const nomorWA = "6281226588155";
 
   katalog.innerHTML = "";
 
@@ -104,7 +104,7 @@ Saya mau pesan undangan
 
 <!-- harga -->
 <div class="text-center text-[#ee4d2d] text-base font-bold mt-1 mb-3">
-  Rp79.000 - Rp119.000
+  Rp59.000 - Rp119.000
 </div>
 
 <!-- tombol -->
